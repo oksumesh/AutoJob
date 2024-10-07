@@ -1,0 +1,369 @@
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+SAFE MODE: Will login with a guest profile, browsing history will not be saved in the browser!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+Login successful!
+
+########################################################################################################################
+
+Date and Time: 2024-10-07 10:41:00.277878
+Cycle number: 1
+Currently looking for jobs posted within '' and sorting them by ''
+
+________________________________________________________________________________________________________________________
+
+
+>>>> Now searching for "Angular Developer" <<<<
+
+
+Setting search location as: "India"
+
+-@-
+
+Already applied to "FullStack Developer with React and .Net
+FullStack Developer with React and .Net with verification | Reflections Info Systems" job. Job ID: 4032034870!
+
+-@-
+
+Already applied to "BabylonJS Web AR/VR Developer with Typescript/Angular Development Experience
+BabylonJS Web AR/VR Developer with Typescript/Angular Development Experience | Instancy Software India Pvt Ltd" job. Job ID: 4036959434!
+
+-@-
+
+Already applied to "Senior Full Stack Developer
+Senior Full Stack Developer | Vijeta Placements" job. Job ID: 4034986917!
+
+-@-
+
+Already applied to "Java Full Stack Developer
+Java Full Stack Developer | Dexian India" job. Job ID: 4020614739!
+
+-@-
+
+Already applied to "Full Stack Engineer
+Full Stack Engineer | Dexian India" job. Job ID: 4020615766!
+
+-@-
+
+Already applied to "Sr. Fullstack Developer
+Sr. Fullstack Developer | VRIZE" job. Job ID: 4035393039!
+
+-@-
+
+Already applied to "Senior Frontend Developer
+Senior Frontend Developer | Janaa" job. Job ID: 4037150634!
+
+-@-
+
+Already applied to "Full Stack Developer ( Dotnet-Angular)- Immediate Joiners
+Full Stack Developer ( Dotnet-Angular)- Immediate Joiners | Knowbiliti" job. Job ID: 4042309954!
+
+-@-
+
+Already applied to "Fullstack developer (Mid/Senior), remotely
+Fullstack developer (Mid/Senior), remotely | Hoelscher GmbH" job. Job ID: 4021214975!
+
+-@-
+
+Already applied to "Senior Software Developer Frontend
+Senior Software Developer Frontend | PINNACLECODE SOLUTIONS" job. Job ID: 4033231959!
+
+-@-
+
+Trying to Apply to "Dotnet +Angular Developer
+Dotnet +Angular Developer | Orbion Infotech" job. Job ID: 4038854294
+HR info was not given for "Dotnet +Angular Developer
+Dotnet +Angular Developer" with Job ID: 4038854294!
+
+About the job
+We are looking for motivated, team-oriented senior software engineers who are driven to make an impact in the healthcare industry through effective medical management solutions. To ensure success as a senior software engineer, you should have a good working knowledge of the basic programming languages, an aptitude for learning new technologies, and a sense of teamwork and adaptability. Ultimately, a top-class Software Engineer is expected to provide valuable support to the development team while continually improving their coding and design skills.
+
+
+
+ Must have – Angular, TypeScript, .NET Core, .NET Core Framework, C#, Web API, SQL, EF, Git Good to have - Azure, Cosmos DB/Mongo, Kafka Key Responsibilities
+
+
+
+ Design, develop and maintain health care applications using technologies such as Angular 8+, C#, .Net Framework 4.5+, .Net Core 3+, HTML5, Bootstrap, CSS3, RESTful Web API, ASP.Net, MVC, WCF Web Services, Entity Framework, and SQL Server
+
+
+
+ Implement and deliver new/upgraded system components based on functional requirements
+
+
+
+ Write high-quality code, designed to be easily understood by others and maintained in the future
+ Uphold high engineering standards, bringing consistency to the codebases you encounter and ensuring software is adequately reviewed, tested, and integrated
+
+
+
+ Design, create and maintain automated unit tests
+
+
+
+ Participate in code reviews and provide mentorship to junior team members to ensure they adhere to standards and best practices
+
+
+
+ Assist Software Development Manager/Lead with the interview process for new team members as needed
+
+
+
+ Contribute individually and work collaboratively in an agile environment
+
+
+
+ Communicate technical concepts and decisions to non-technical project members
+
+
+
+ Contribute to the ongoing evolution of the existing portfolio of applications and services Skills & Qualifications
+
+
+
+ 6+ years of experience developing and shipping software.
+
+
+
+ Expertise in Object Oriented Programming (OOP)
+ Professional experience with C# and the .NET Framework version 4.5+
+
+
+
+ Professional experience developing Web services/REST API's and WCF Services
+
+
+
+ Professional experience with HTML5, Bootstrap, CSS3, Angular and Visual Studio/Code
+
+
+
+ Professional experience in creating and maintaining unit tests using frameworks like Jest, NUnit
+
+
+
+ Professional experience with SQL scripts and stored procedures
+
+
+
+ Experience with branching strategies, CI/CD pipelines and quality gates
+
+
+
+ Sound knowledge on application usability, performance, and security principles
+
+
+
+ Excellent verbal and written communication skills
+
+
+
+ Excellent analytical and problem-solving skills
+
+
+
+ Ability to work individually and as part of the team in a fast-paced Agile environment
+
+
+
+ Bachelor’s degree in computer science, engineering, or related field preferred; equivalent work experience in related field
+
+
+
+ Ability and desire to learn new software and technologies quickly Bonus Skills
+
+
+
+ Understanding of the healthcare industry, related technologies, and regulatory needs (e.g., HIPAA)
+ Experience with develop
+
+
+
+ Must have – Angular, TypeScript, .NET Core, .NET Core Framework, C#, Web API, SQL, EF, Git Good to have - Azure, Cosmos DB/Mongo, Kafka
+
+Skills: angular,.net core,typescript
+
+Experience required 6 > Current Experience 5. Skipping this job!
+
+
+-@-
+
+Already applied to "Senior Angular Developer
+Senior Angular Developer | TechUp Labs" job. Job ID: 4040419862!
+
+-@-
+
+Already applied to "PYTHON ANGULAR DEVELOPER
+PYTHON ANGULAR DEVELOPER | AviinTech Business Solutions" job. Job ID: 4042712612!
+
+-@-
+
+Already applied to "Parttime Angular Developer
+Parttime Angular Developer | COSO IT - A Big Data & AI Company" job. Job ID: 4021823543!
+
+-@-
+
+Trying to Apply to "Senior Software Engineer (.Net API Developer)
+Senior Software Engineer (.Net API Developer) with verification | Mitra AI" job. Job ID: 4039993886
+
+About the job
+About Mitra Innovation (https://mitrai.com/)
+
+Mitra AI is a global technology company that specializes in AI-driven solutions, cloud engineering, enterprise integration and workflow automation. Headquartered in the UK, Mitra has been serving global clients for the last 12 years in the US, UK, EU and APAC, across industries such as BFSI, telecommunications, healthcare, and retail, helping businesses modernize and optimize their operations. 
+
+Working mode
+This is a FULL-TIME PERMANENT, REMOTE role for all Indian candidates.
+
+Role
+Seasoned API developer with expertise in writing scalable APIs in .NET, specifically .NET 8 and understanding of AWS.
+
+
+Job Specific Duties & Responsibilities
+Apply the principles of design, development, testing, deployment, support, and evaluation.
+Develop and deploy high quality software solutions with comprehensive test coverage without supervision.
+Analyze business objectives and translate requirements to technical implementation components.
+Design and build programs or application features meeting business objective and requirements.
+Provide accurate estimates for the development effort for new features.
+Provide mentoring and technical assistance to other members of the team.
+Apply and promote industry best patterns and practices.
+Contribute to the strategic engineering goals within own team and platform.
+Lead Level 3 or above support and technical troubleshooting activity.
+Collaborate with architects, designers, analysts, product specialists, and other software engineers
+Design, develop, and implement ETL processes for data extraction, transformation, and loading from multiple data sources to both on-premises and cloud-based data warehouses
+Develop scalable and efficient full-stack applications, including both front-end and back-end components
+Experience using agile methodologies, GitHub portfolio, working on SQL databases, microservices architecture
+Full stack developer with familiarity with .Net, APIs, AWS, SOA, TLS, JWT, SSO, SAML, JOSE, JSON, and AWS Cloud Stack
+Understanding of Microservice Architecture preferably with hands on experience developing microservices
+Understanding of Cloud concepts specifically in AWS with hands on experience related to implementing and deploying applications & systems
+
+
+Required Competencies, Qualifications
+Bachelor of Technology or relevant field
+5+ years of experience working with .NET and ASP.NET web application and Web API development
+Experience developing web-based applications in C#, HTML, JavaScript, .NET, ASP.NET
+Experience working with MS SQL Server and MySQL Knowledge of practices and procedures for full software design life cycle
+Hands-on experience in AWS, leveraging cloud services for application deployment, monitoring, and scaling is an added advantage.
+Experience working in agile development environment
+
+Experience required 12 > Current Experience 5. Skipping this job!
+
+
+-@-
+
+Trying to Apply to "Dot Net & React Developer (.net , C#, react)
+Dot Net & React Developer (.net , C#, react) | Whitefield Careers" job. Job ID: 4037511904
+HR info was not given for "Dot Net & React Developer (.net , C#, react)
+Dot Net & React Developer (.net , C#, react)" with Job ID: 4037511904!
+Click Failed! Didn't find 'Next'
+Answered the following questions...
+{('unknown', '10', 'text', ''), ('Phone country code [ "List of phone country codes" ]', 'Yes', 'select', 'India (+91)'), ('last name', 'Kumar', 'text', 'Kumar'), ('Email address [  "Select an option", "officialsumesh07@gmail.com", ]', 'Yes', 'select', 'officialsumesh07@gmail.com'), ('mobile phone number', '7340008862', 'text', '7340008862'), ('first name', 'Sumesh', 'text', 'Sumesh')}
+Click Failed! Didn't find 'Review'
+Successfully saved "Dot Net & React Developer (.net , C#, react)
+Dot Net & React Developer (.net , C#, react) | Whitefield Careers" job. Job ID: 4037511904 info
+
+-@-
+
+Already applied to "Full Stack Engineer
+Full Stack Engineer with verification | TURNAHEAD HR CONSULTANTS Pvt Ltd" job. Job ID: 4034191145!
+
+-@-
+
+Already applied to "Frontend Developer
+Frontend Developer | Swarmauri" job. Job ID: 4042501905!
+
+-@-
+
+Already applied to "Blockchain Fullstack Developer
+Blockchain Fullstack Developer | Buildorz" job. Job ID: 4039390101!
+
+-@-
+
+Already applied to ".NET Lead Developer
+.NET Lead Developer | Imagene Consulting Inc" job. Job ID: 4027444519!
+
+-@-
+
+Already applied to "Senior .NET Full Stack Developer
+Senior .NET Full Stack Developer with verification | Fulfillment IQ" job. Job ID: 4031000917!
+
+-@-
+
+Already applied to "Full Stack Engineer | JavaScript, C# | Remote
+Full Stack Engineer | JavaScript, C# | Remote | stackway" job. Job ID: 4020632333!
+
+-@-
+
+Already applied to "Angular Developer
+Angular Developer with verification | Randstad India" job. Job ID: 4039353575!
+
+-@-
+
+Already applied to "Lead Software Engineer (Full Stack) (7-10years)
+Lead Software Engineer (Full Stack) (7-10years) with verification | Cimpress India" job. Job ID: 4026914100!
+
+-@-
+
+Already applied to "ALS Keyboard Application Developer
+ALS Keyboard Application Developer | Dexian India" job. Job ID: 4036736933!
+
+>-> Now on Page 2 
+
+Failed to find Job listings!
+In Applier
+Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=129.0.6668.90)
+Stacktrace:
+0   undetected_chromedriver             0x0000000102c5dd18 undetected_chromedriver + 4996376
+1   undetected_chromedriver             0x0000000102c555da undetected_chromedriver + 4961754
+2   undetected_chromedriver             0x00000001027f8d10 undetected_chromedriver + 388368
+3   undetected_chromedriver             0x00000001027d044f undetected_chromedriver + 222287
+4   undetected_chromedriver             0x00000001028719fd undetected_chromedriver + 883197
+5   undetected_chromedriver             0x00000001028873f9 undetected_chromedriver + 971769
+6   undetected_chromedriver             0x0000000102869753 undetected_chromedriver + 849747
+7   undetected_chromedriver             0x0000000102838635 undetected_chromedriver + 648757
+8   undetected_chromedriver             0x0000000102838e5e undetected_chromedriver + 650846
+9   undetected_chromedriver             0x0000000102c24000 undetected_chromedriver + 4759552
+10  undetected_chromedriver             0x0000000102c28f18 undetected_chromedriver + 4779800
+11  undetected_chromedriver             0x0000000102c295e5 undetected_chromedriver + 4781541
+12  undetected_chromedriver             0x0000000102c06aa9 undetected_chromedriver + 4639401
+13  undetected_chromedriver             0x0000000102c298d9 undetected_chromedriver + 4782297
+14  undetected_chromedriver             0x0000000102bf8044 undetected_chromedriver + 4579396
+15  undetected_chromedriver             0x0000000102c45a08 undetected_chromedriver + 4897288
+16  undetected_chromedriver             0x0000000102c45c03 undetected_chromedriver + 4897795
+17  undetected_chromedriver             0x0000000102c551de undetected_chromedriver + 4960734
+18  libsystem_pthread.dylib             0x00007ff8114f3253 _pthread_start + 99
+19  libsystem_pthread.dylib             0x00007ff8114eebef thread_start + 15
+
+2024-10-07 10:41:37.681201
+
+
+Total runs:                     1
+Jobs Easy Applied:              1
+External job links collected:   0
+                              ----------
+Total applied or collected:     1
+
+Failed jobs:                    0
+Irrelevant jobs skipped:        2
+
+
+
+Questions randomly answered:
+  ('Unknown', 'text')  
+
+
+IF YOU HAVE MORE THAN 10 TABS OPENED, PLEASE CLOSE OR BOOKMARK THEM! Or it's highly likely that application will just open browser and not do anything!
+SAFE MODE: Will login with a guest profile, browsing history will not be saved in the browser!
+Downloading Chrome Driver... This may take some time. Undetected mode requires download every run!
+In Applier Main
+Invalid input for first_name. Expecting a String of length at least 1!
+2024-10-07 12:08:49.134570
+
+
+Total runs: 1
+Jobs Easy Applied: 0
+External job links collected: 0
+Total applied or collected: 0
+Failed jobs: 0
+Irrelevant jobs skipped: 0
+Closing the browser...
